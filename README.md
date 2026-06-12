@@ -146,7 +146,7 @@ deep-learning-projects/
 
 # 👨‍💻 Author
 
-**Dhrishy**
+**Dhrishit Rathod | Riya Rane**
 
 B.E. Electronics & Telecommunication Engineering  
 Honors in Artificial Intelligence & Machine Learning
